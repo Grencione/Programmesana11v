@@ -21,7 +21,7 @@ print(5**4)
 #9)Neija Niks Rûdolfs
 
 #10)Ratnieks Paulis
-
+print("labadiena")
 #11)Rimkçvièa Alise
 
 #12)Samsonova Anna
