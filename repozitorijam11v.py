@@ -19,7 +19,7 @@ print(6+9)
 #8) Laizâns Ralfs Adrians
 print(5**2+3)
 #9)Neija Niks Rûdolfs
-
+#sveiki labdien
 #10)Ratnieks Paulis
 
 #11)Rimkçvièa Alise
