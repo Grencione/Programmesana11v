@@ -9,7 +9,7 @@ print(5**4)
 #3)Dorbe Henrijs
 
 #4)Dunajevs Mârtiòð
-
+print(5+4)
 #5)Gulbis Kristaps
 print(6+9)
 #6)Kalniòa Agnese
