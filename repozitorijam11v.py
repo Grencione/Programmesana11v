@@ -25,6 +25,6 @@ print(5**4)
 #11)Rimkçvièa Alise
 
 #12)Samsonova Anna
-
+print(5**3)
 #13)Zîverte Mâra Anna
 
